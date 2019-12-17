@@ -1,0 +1,10 @@
+html{
+  background-color: white;
+}
+
+#SneewVlok{
+  /* height: 2px; */
+  width: 600px;
+  stroke:white;
+  fill: none;
+}
